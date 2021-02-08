@@ -1,0 +1,29 @@
+.contact {
+   background-color: rgb(17, 16, 15);
+border-radius: 3px;
+border: 1px solid rgb(240, 174, 76);
+  display: flex;
+  justify-content: space-between;
+  width: 300px;
+  height: auto;
+
+ 
+
+  letter-spacing: 0.6px;
+  line-height: 26px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+
+.deleteButton {
+  height: 25px;
+  margin-top: auto;
+  margin-bottom: auto;
+  width: 25px;
+  height: 25px;
+  color: #ffffff;   
+  border: none;
+  background-color: red;
+  cursor: pointer;
+}
